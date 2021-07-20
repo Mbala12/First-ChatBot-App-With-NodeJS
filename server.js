@@ -16,8 +16,6 @@ io.on('connection', socket =>{
         //console.log(msg);
     })
 })
-
-
 /* app.get('/', (req, res)=>{
     res.send('Test connection');
 }) */
